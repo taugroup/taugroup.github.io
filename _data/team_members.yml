@@ -7,19 +7,13 @@
   education2: Contributor to the SPEC CPU 2017 benchmark suite.
   education3: NVIDIA DLI University Ambassador and XSEDE Campus Champion at Texas A&M University
 
-- name: Alyssa Cassity
-  photo: AlyssaCassity.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
-
-- name: Hernan (David) Santos Barrera
+- name: David Santos
   photo: DavidSantos.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
+  info: PhD student in Electrical Engineering
+  email: hsantos@tamu.edu
+  number_educ: 2
+  education1: B.S. in Electrical Engineering, Pontifical Xavierian University
+  education2: M.S in Electrical Engineering, Pontifical Xavierian University
 
 - name: Hieu Le
   photo: hieu_le.jpeg
@@ -28,32 +22,40 @@
   number_educ: 0
   education1: 
 
-- name: Nina Kang
-  photo: NinaKang.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
-
-- name: Samira Vafa
+- name: Samira Vafay Eslahi
   photo: SamiraVafa.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
+  info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
+  email: samira.vafay@tamu.edu
+  number_educ: 2
+  education1: MSc in Biomedical Engineering, IAU, Iran
+  education2: BEng in Electrical Engineering, IAU, Iran
 
-- name: Sree Kiran Prasad
+- name: Sree Kiran Prasad 
   photo: SreeKiranPrasad.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
+  info: Master's Student, NLP & Data Science Researcher
+  email: sreekiranv@tamu.edu
+  number_educ: 2
+  education1: Master of Data Science, Texas A&M University
+  education2: Bachelor of  Technology, National Institute of Technology Tiruchirappalli
 
 - name: Revanth Reddy
   photo: Revanth.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
+  info: Master's Student, ML & FullStack Developer
+  email: revanth@tamu.edu
+  number_educ: 2
+  education1: Master of Computer Science, Texas A&M University
+  education2: Bachelor of  Technology, National Institute of Technology Durgapur
 
+- name: Alyssa Cassity
+  photo: AlyssaCassity.jpeg
+  info: Undergraduate Student
+  email: aac0428@tamu.edu
+  number_educ: 1
+  education1: Bachelor of visualization, Texas A&M University
 
+- name: Nina Kang
+  photo: NinaKang.jpeg
+  info: Undergraduate Student
+  email: kn395349@tamu.edu
+  number_educ: 1
+  education1: BS in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
