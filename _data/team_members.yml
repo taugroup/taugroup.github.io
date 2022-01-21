@@ -1,36 +1,44 @@
-- name: Jian Tao
+- name: Jian Tao (Group Leader)
   photo: JianTao.png
-  info: Assistant Professor (Department of Visualization - College of Architecture), Associate Director (Scientific Machine Learning Laboratory, Texas A&M Institute of Data Science)
+  info: Assistant Professor in Visualization, Assistant Director at the Texas A&M Institute of Data Science
   email: jtao@tamu.edu
-  number_educ: 3
-  education1: Ph.D. in Physics (Computational Astrophysics) from Washington University in St. Louis in 2008
-  education2: Contributor to the SPEC CPU 2017 benchmark suite.
-  education3: NVIDIA DLI University Ambassador and XSEDE Campus Champion at Texas A&M University
+  number_educ: 4
+  education1: Ph.D. in Physics from Washington University in St. Louis in 2008
+  education2: NVIDIA DLI University Ambassador
+  education3: XSEDE Campus Champion
+  education4: Contributor to the SPEC CPU 2017 benchmark suite
 
-- name: David Santos
-  photo: DavidSantos.jpeg
-  info: PhD student in Electrical Engineering
-  email: hsantos@tamu.edu
-  number_educ: 2
-  education1: B.S. in Electrical Engineering, Pontifical Xavierian University
-  education2: M.S in Electrical Engineering, Pontifical Xavierian University
-
-- name: Hieu Le
-  photo: hieu_le.jpeg
-  info: 
-  email: 
-  number_educ: 0
-  education1: 
+- name: Alyssa Cassity
+  photo: AlyssaCassity.jpeg
+  info: Undergraduate Student
+  email: aac0428@tamu.edu
+  number_educ: 1
+  education1: Bachelor of visualization, Texas A&M University
 
 - name: Samira Vafay Eslahi
   photo: SamiraVafa.jpeg
   info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
   email: samira.vafay@tamu.edu
   number_educ: 2
-  education1: MSc in Biomedical Engineering, IAU, Iran
-  education2: BEng in Electrical Engineering, IAU, Iran
+  education1: M.S. in Biomedical Engineering, IAU, Iran
+  education2: B.E. in Electrical Engineering, IAU, Iran
 
-- name: Sree Kiran Prasad 
+- name: Nina Kang
+  photo: NinaKang.jpeg
+  info: Undergraduate Student
+  email: kn395349@tamu.edu
+  number_educ: 1
+  education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
+
+- name: Hieu Le
+  photo: hieu_le.jpeg
+  info: Ph.D. student in Electrical Engineering
+  email: hieult@tamu.edu
+  number_educ: 2
+  education1: M.S. in Petroleum  Engineering, New Mexico Institute of Mining and technology University of Technology, Viet Nam
+  education2: B.E. in Petroleum  Engineering, Vietnam National University Ho Chi Minh city, University of Technology, Viet Nam
+
+- name: Sree Kiran Prasad
   photo: SreeKiranPrasad.jpeg
   info: Master's Student, NLP & Data Science Researcher
   email: sreekiranv@tamu.edu
@@ -44,18 +52,12 @@
   email: revanth@tamu.edu
   number_educ: 2
   education1: Master of Computer Science, Texas A&M University
-  education2: Bachelor of  Technology, National Institute of Technology Durgapur
+  education2: Bachelor of Technology, National Institute of Technology Durgapur
 
-- name: Alyssa Cassity
-  photo: AlyssaCassity.jpeg
-  info: Undergraduate Student
-  email: aac0428@tamu.edu
-  number_educ: 1
-  education1: Bachelor of visualization, Texas A&M University
-
-- name: Nina Kang
-  photo: NinaKang.jpeg
-  info: Undergraduate Student
-  email: kn395349@tamu.edu
-  number_educ: 1
-  education1: BS in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
+- name: David Santos
+  photo: DavidSantos.jpeg
+  info: Ph.D. Student in Electrical Engineering
+  email: hsantos@tamu.edu
+  number_educ: 2
+  education1: B.S. in Electrical Engineering, Pontifical Xavierian University
+  education2: M.S in Electrical Engineering, Pontifical Xavierian University
