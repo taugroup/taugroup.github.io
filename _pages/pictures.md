@@ -5,11 +5,11 @@ excerpt: "TAU Group -- Gallery"
 permalink: /gallery/
 ---
 
+[comment]: <> (#### Autopilot in Virtual RELLIS [&#40;visit V-RELLIS&#41;]&#40;https://sites.google.com/tamu.edu/rellisvirtualmap/&#41;:)
 
-#### Autopilot in Virtual RELLIS [(visit V-RELLIS)](https://sites.google.com/tamu.edu/rellisvirtualmap/):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6TEmWmkSpAQ" frameborder="0" allowfullscreen></iframe>
+[comment]: <> (<iframe width="560" height="315" src="https://www.youtube.com/embed/6TEmWmkSpAQ" frameborder="0" allowfullscreen></iframe>)
 
-#### Gallery
+# Gallery
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.gallery %}
@@ -21,7 +21,7 @@ permalink: /gallery/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-fluid" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

@@ -1,9 +1,9 @@
-#- title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-#  image: SmartPub.png
-#  description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#  authors: Lorem, ipsum dolor, sit amet, consectetur, adipiscing, elit.
-#  link:
-#    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-#    display:  Phys. Rev. Research 3, 013153 (2021)
-#  highlight: 1
-#  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+- title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  image: SmartPub.png
+  description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  authors: Lorem, ipsum dolor, sit amet, consectetur, adipiscing, elit.
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+    display:  Phys. Rev. Research 3, 013153 (2021)
+  highlight: 1
+  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)

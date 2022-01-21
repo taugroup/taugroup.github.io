@@ -1,0 +1,51 @@
+- title: "Creating a Shared Public Safety Radio Data Set for Research and Analysis"
+  image: NIST_public_dataset.png
+  description: "In September 2021, Texas A&M University was awarded more than $900,000 for the
+  <a href='https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-public-safety-radio-data'>
+  Public Safety Innovation Accelerator Program: Public Safety Radio Data Grant</a>. As public safety begins to
+  transition from Land Mobile Radio (LMR) systems to packet-based broadband systems such as LTE (Long-Term Evolution)
+  and 5G technology, shared public safety radio datasets are becoming increasingly important. In the effort to support
+  the transition from LMR to LTE, Texas A&M seeks to gather this data from several different public safety
+  organizations to develop traffic models and determine overall system requirements."
+  pis: Walt Magnussen, Nick Duffield, Jian Tao, Michael E. Fox, Joan Quintana
+  members: David Santos, Jian Tao
+  link:
+    url: https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-public-safety-radio-data/creating
+    display: NIST-PSIAP-PSCR 2021
+  highlight: 1
+  news:
+
+- title: "Food for Thought Competition: Using NLP and Machine Learning to Link Food and Nutrition Databases"
+  image: CI_food4thought.png
+  description: "The US Department of Agriculture (USDA)’s domestic food and nutrition assistance programs affect the
+  daily lives of millions of people, from almost half the infants born in the US to older adults, and they provide a
+  nutrition safety net to ensure that no eligible American goes hungry. About one in four persons participate in at
+  least one program at some point during a given year. Even more people rely on USDA guidance about what to eat for
+  a nutritious diet—both individuals and organizations like hospitals, assisted living facilities, and childcare centers.
+  This competition challenges data scientists to use machine learning and natural language processing to link databases
+  on a large scale, helping millions of Americans make better food and nutrition choices while at the same time saving
+  US taxpayers money."
+  pis:
+  members: Sree Kiran Prasa, Jian Tao
+  link:
+    url: https://coleridgeinitiative.org/food-for-thought
+    display: USDA-Food for Thought 2022
+  highlight: 0
+  news:
+
+- title: "Collaborative project to develop OSS that visualizes and analyzes research data from VIVO systems"
+  image: LYRASIS_RDASH.svg
+  description: "In this project we will create RDash, a web-based data-driven research intelligence platform for
+  the analysis of the Texas A&M research enterprise. We envision this platform as one of the core components
+  for an integrated and comprehensive Decision Support System (DSS) for research enterprises. Within the scope of
+  this project, our team aims to: (1) Create a dashboard for interactive analysis of the Texas A&M research enterprise,
+  (2) Identify existing Texas A&M research capacity for strategic assessment, (3) Identify Texas A&M subject matter experts
+  and research clusters, (4) Advance opportunities for interdisciplinary research, (5) Strategically map capacity to
+  state/national priorities, funding opportunities"
+  pis: Bruce Herbert
+  members: Sree Kiran Prasa, Jian Tao
+  link:
+    url: https://www.lyrasis.org/Leadership/Pages/2021-Catalyst-Fund-Projects.aspx
+    display: 2021 Catalyst Fund Projects
+  highlight: 0
+  news:
