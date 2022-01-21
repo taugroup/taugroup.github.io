@@ -17,13 +17,7 @@ tools to carry out simulations, data analytics, and visualization on both parall
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-
-[comment]: <> (        <li data-target="#carousel" data-slide-to="4"></li>)
-
-[comment]: <> (        <li data-target="#carousel" data-slide-to="5"></li>)
-
-[comment]: <> (        <li data-target="#carousel" data-slide-to="6"></li>)
-    </ol>
+ </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
