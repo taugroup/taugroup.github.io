@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad81a931-f776-42ff-b1fb-fe0f04c373b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_data/research.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/gallery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/gallery.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/publist.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publist.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/piclay.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/piclay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/allnews.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/allnews.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/openings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/openings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/pictures.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/pictures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gallery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/Contest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/DomeNews.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/LCposter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/NewsNP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/SFnews.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/Saphireheadline.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/SmartTip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/amp.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/doohee_prize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newspic/scesprizes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/STM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/STMHead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/SciPost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/SmartTip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/SpinFluc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/layers_fft.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/layers_fft.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/layers_fft_red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/layers_real.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/layers_real.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/respic/layers_real_red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/Fig_Science_Web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/Logos_h.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/MottMap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/QPI_Rh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/SaphireSTM2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/SmartTipSide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/cake_web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/lab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider7001400/logos.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23xc7H3weLOTaIOV0J4orn6WqSB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_data" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad81a931-f776-42ff-b1fb-fe0f04c373b3" name="Changes" comment="" />
+      <created>1642679010004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642679010004</updated>
+      <workItem from="1642679011647" duration="24292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/gh-pages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

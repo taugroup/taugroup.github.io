@@ -1,32 +1,35 @@
-- date: 9. January 2022
-  headline: "**Lorem ipsum dolor sit amet**, <a>consectetur adipiscing elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- date: 01/15/2022
+  headline: "Revanth Reddy, a Master's student from the Department of Computer Science joined the team."
 
-- date: 5. January 2022
-  headline: "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a>consectetur adipiscing elit</a>"
+- date: 01/15/2022
+  headline: "Two Ph.D. candidates from ECE, Hieu Le and David Santos joined the team."
 
-- date: 1. January 2022
-  headline: "**Lorem ipsum dolor sit amet**, <a>consectetur adipiscing elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- date: 01/06/2022
+  headline: "The TAU Group represented by Sree Kiran Prasad Vadaga and Dr. Jian Tao was selected as one of the 12 teams
+  (49 participants total) to compete for <a href='https://coleridgeinitiative.org/food-for-thought/'>the Food for Thought</a>
+  international competition organized by USDA and Coleridge Initiative"
 
-- date: 25. December 2021
-  headline: "<b>The inhomogeneous superfluid paper is published in <a href=''>Nature</a>!</b><img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
+- date: 12/01/2021
+  headline: "Samira Vafay Eslahi (Co-chaired by Dr. Jian Tao with <a href='https://engineering.tamu.edu/electrical/profiles/jji.html'>Dr. Jim Ji</a> from ECE),
+  a Ph.D. candidate from the Department of Electrical & Computer Engineering joined the team."
 
-- date: 21. December 2021
-  headline: "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a>consectetur adipiscing elit</a>"
+- date: 11/01/2021
+  headline: "Alyssa Cassity, an undergraduate student from the Department of Visualization, and Nina Kang,
+  an undergraduate student from the Department of Computer Science (Minors in Mathematics & Statistics) joined
+  the group."
 
-- date: 20. December 2021
-  headline: "**Lorem ipsum dolor sit amet**, <a>consectetur adipiscing elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- date: 10/01/2021
+  headline: "Sree Kiran Prasad Vadaga, a graduate student in the Master of Data Science program join the group."
 
-- date: 11. December 2021
-  headline: "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a>consectetur adipiscing elit</a>"
+- date: 09/01/2021
+  headline: "In September 2021, the Texas A&M team co-led by Dr. Jian Tao was awarded more than $900,000 for the
+  Public Safety Innovation Accelerator Program: Public Safety Radio Data Grant."
 
-- date: 10. December 2021
-  headline: "**Lorem ipsum dolor sit amet**, <a>consectetur adipiscing elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- date: 09/01/2021
+  headline: "Dr. Jian Tao was appointed as <a href='https://tamids.tamu.edu/2021/11/29/recent-appointments/'>
+  the Assistant Director of the Texas A&M Institute of Data Science</a>.
+  He will be primarily responsible for the development of research projects relevant to data science"
 
-- date: 3. December 2021
-  headline: "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a>consectetur adipiscing elit</a>"
-
-- date: 2. December 2021
-  headline: "**Lorem ipsum dolor sit amet**, <a>consectetur adipiscing elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-- date: 1. December 2021
-  headline: "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a>consectetur adipiscing elit</a>"
+- date: 09/01/2021
+  headline: "Dr. Jian Tao joined the Department of Visualization in the College of Architecture at Texas A&M
+  University as a tenure-track Assistant Professor. The TAU Group was born."
