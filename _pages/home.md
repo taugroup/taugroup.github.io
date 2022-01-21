@@ -17,9 +17,12 @@ tools to carry out simulations, data analytics, and visualization on both parall
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+
+[comment]: <> (        <li data-target="#carousel" data-slide-to="4"></li>)
+
+[comment]: <> (        <li data-target="#carousel" data-slide-to="5"></li>)
+
+[comment]: <> (        <li data-target="#carousel" data-slide-to="6"></li>)
     </ol>
 
     <!-- Items -->
@@ -29,6 +32,12 @@ tools to carry out simulations, data analytics, and visualization on both parall
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Virtual_rellis_map.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CI_food4thought.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LYRASIS_RDASH.png" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
