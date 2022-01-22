@@ -1,8 +1,10 @@
 - date: 01/15/2022
-  headline: "Revanth Reddy, a Master's student from the Department of Computer Science joined the team."
+  headline: "Revanth Reddy, a Master's student from the <a href='https://viz.tamu.edu'>Department of Visualization</a>
+  joined the group."
 
 - date: 01/15/2022
-  headline: "Two Ph.D. candidates from ECE, Hieu Le and David Santos joined the team."
+  headline: "Two Ph.D. candidates from the <a href='https://ece.tamu.edu/'>Department of Electrical & Computer
+  Engineering</a>, Hieu Le and David Santos joined the group."
 
 - date: 01/06/2022
   headline: "The TAU Group represented by Sree Kiran Prasad Vadaga and Dr. Jian Tao was selected as one of the 12 teams
@@ -10,26 +12,29 @@
   international competition organized by USDA and Coleridge Initiative"
 
 - date: 12/01/2021
-  headline: "Samira Vafay Eslahi (Co-chaired by Dr. Jian Tao with <a href='https://engineering.tamu.edu/electrical/profiles/jji.html'>Dr. Jim Ji</a> from ECE),
-  a Ph.D. candidate from the Department of Electrical & Computer Engineering joined the team."
+  headline: "Samira Vafay Eslahi (Co-chaired by Dr. Jian Tao with
+  <a href='https://engineering.tamu.edu/electrical/profiles/jji.html'>Dr. Jim Ji</a> from ECE), a Ph.D. candidate from
+  the Department of Electrical & Computer Engineering joined the group."
 
 - date: 11/01/2021
-  headline: "Alyssa Cassity, an undergraduate student from the Department of Visualization, and Nina Kang,
-  an undergraduate student from the Department of Computer Science (Minors in Mathematics & Statistics) joined
-  the group."
+  headline: "Alyssa Cassity, an undergraduate student from the <a href='https://viz.tamu.edu'>Department of Visualization</a>,
+  and Nina Kang, an undergraduate student from the <a href='https://cse.tamu.edu'>Department of Computer Science &
+  Engineering</a> (Minors in Mathematics & Statistics) joined the group."
 
 - date: 10/01/2021
-  headline: "Sree Kiran Prasad Vadaga, a graduate student in the Master of Data Science program join the group."
+  headline: "Sree Kiran Prasad Vadaga, a graduate student in the <a href='https://tamids.tamu.edu/msds/'>
+  Master of Science in Data Science program</a> joined the group."
 
 - date: 09/01/2021
   headline: "In September 2021, the Texas A&M team co-led by Dr. Jian Tao was awarded more than $900,000 for the
-  Public Safety Innovation Accelerator Program: Public Safety Radio Data Grant."
+  <a href='https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-public-safety-radio-data/creating'>
+  Public Safety Innovation Accelerator Program: Public Safety Radio Data Grant</a>."
 
 - date: 09/01/2021
   headline: "Dr. Jian Tao was appointed as <a href='https://tamids.tamu.edu/2021/11/29/recent-appointments/'>
   the Assistant Director of the Texas A&M Institute of Data Science</a>.
-  He will be primarily responsible for the development of research projects relevant to data science"
+  He will be primarily responsible for the development of research projects relevant to data science."
 
 - date: 09/01/2021
-  headline: "Dr. Jian Tao joined the Department of Visualization in the College of Architecture at Texas A&M
+  headline: "Dr. Jian Tao joined the <a href='https://viz.tamu.edu'>Department of Visualization</a> in the College of Architecture at Texas A&M
   University as a tenure-track Assistant Professor. The TAU Group was born."
