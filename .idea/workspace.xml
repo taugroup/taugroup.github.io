@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad81a931-f776-42ff-b1fb-fe0f04c373b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/research.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/research.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/allnews.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/allnews.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ad81a931-f776-42ff-b1fb-fe0f04c373b3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642679010004</updated>
       <workItem from="1642679011647" duration="28892000" />
-      <workItem from="1643749227785" duration="98000" />
+      <workItem from="1643749227785" duration="489000" />
     </task>
     <servers />
   </component>
