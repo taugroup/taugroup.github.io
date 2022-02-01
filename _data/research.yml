@@ -8,7 +8,7 @@
   the transition from LMR to LTE, Texas A&M seeks to gather this data from several different public safety
   organizations to develop traffic models and determine overall system requirements."
   pis: Walt Magnussen, Nick Duffield, Jian Tao, Michael E. Fox, Joan Quintana
-  members: David Santos, Jian Tao
+  members: David Santos
   link:
     url: https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-public-safety-radio-data/creating
     display: NIST-PSIAP-PSCR 2021
@@ -26,7 +26,7 @@
   on a large scale, helping millions of Americans make better food and nutrition choices while at the same time saving
   US taxpayers money."
   pis:
-  members: Sree Kiran Prasa, Jian Tao
+  members: Sree Kiran Prasa
   link:
     url: https://coleridgeinitiative.org/food-for-thought
     display: USDA-Food for Thought 2022
@@ -43,9 +43,23 @@
   and research clusters, (4) Advance opportunities for interdisciplinary research, (5) Strategically map capacity to
   state/national priorities, funding opportunities"
   pis: Bruce Herbert
-  members: Sree Kiran Prasa, Jian Tao
+  members: Sree Kiran Prasa
   link:
     url: https://www.lyrasis.org/Leadership/Pages/2021-Catalyst-Fund-Projects.aspx
     display: 2021 Catalyst Fund Projects
+  highlight: 0
+  news:
+
+- title: "Auditory Perception in CARLA"
+  image: ambulance.png
+  description: "The project started with developing a virtual RELLIS campus to familiarize researchers with
+  controlling autonomous vehicles prior to physical implementation. As the map grew more refined, the idea to implement auditory
+  perception in the simulator grew of interest. The primary focus is on emergency vehicle recognition and having the vehicle move aside once
+  the siren is detected. We aim to use binary classification with spectograms to determine whether a sound is a siren, and the
+  Unreal Engine assets utilized by the simulator must be modified to produce the sounds for the model to detect."
+  members: Nina Kang, Alyssa Cassity
+  link:
+    url: https://sites.google.com/tamu.edu/rellisvirtualmap/home
+    display: Virtual RELLIS Site
   highlight: 0
   news:

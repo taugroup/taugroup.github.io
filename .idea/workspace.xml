@@ -2,55 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad81a931-f776-42ff-b1fb-fe0f04c373b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/research.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/gallery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/gallery.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publist.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publist.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/piclay.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/piclay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/allnews.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/allnews.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/openings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/openings.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/pictures.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/pictures.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/research.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/gallery/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/Contest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/DomeNews.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/LCposter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/NewsNP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/SFnews.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/Saphireheadline.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/SmartTip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/amp.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/doohee_prize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/order.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newspic/scesprizes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/STM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/STMHead.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/SciPost.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/SmartTip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/SpinFluc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/layers_fft.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/layers_fft.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/layers_fft_red.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/layers_real.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/layers_real.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/respic/layers_real_red.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/Fig_Science_Web.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/Logos_h.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/MottMap.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/QPI_Rh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/SaphireSTM2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/SmartTipSide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/cake_web.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/lab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider7001400/logos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/research.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/research.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/allnews.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/allnews.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +15,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_includes/header.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_data/gallery.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_data/news.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_data/research.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_data/team_members.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_data/publist.yml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="23xc7H3weLOTaIOV0J4orn6WqSB" />
   <component name="ProjectViewState">
@@ -85,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642679010004</updated>
-      <workItem from="1642679011647" duration="24292000" />
+      <workItem from="1642679011647" duration="28892000" />
+      <workItem from="1643749227785" duration="98000" />
     </task>
     <servers />
   </component>
@@ -114,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
