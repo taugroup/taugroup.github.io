@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "TAU Group at Texas A&M Univeristy."
+excerpt: "TAU Group at Texas A&M University"
 sitemap: false
 permalink: /allnews.html
 ---
@@ -9,6 +9,6 @@ permalink: /allnews.html
 # News
 
 {% for article in site.data.news %}
-<p><b>{{ article.date }}</b> <br>
-<em>{{ article.headline}}</em></p>
+{{ article.date }} <b>[{{ article.type | upcase }}]</b><br/>
+{{ article.headline}}
 {% endfor %}

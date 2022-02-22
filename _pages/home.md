@@ -47,10 +47,10 @@ tools to carry out simulations, data analytics, and visualization on both parall
 Our specific areas of interest include:
 
 - Digital Twin, Data Curation, Internet of Things (IoT)
-- Scientific Machine Learning (SciML), 3D Modeling, VR/AR
-- Scientific Visualization (SciViz), Geospatial Analysis, Signal Processing
+- Scientific Machine Learning (SciML), Machine Learning (ML) and Deep Learning (DL)
+- Scientific Visualization (SciViz), 3D Modeling, VR/AR
+- Geospatial Analysis, Signal Processing 
 - Natural Language Processing (NLP)
-- Machine Learning (ML) and Deep Learning (DL)
 
 We are grateful for funding from [Texas A&M University](https://tamu.edu), [NSF](https://www.nsf.gov/), 
 the [NIST](https://www.nist.gov), and the [LYRASIS Catalyst Fund](https://www.lyrasis.org/Leadership/Pages/Catalyst-Fund.aspx).

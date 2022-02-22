@@ -1,7 +1,7 @@
 ---
 title: "TAU Group - Gallery"
 layout: piclay
-excerpt: "TAU Group -- Gallery"
+excerpt: "TAU Group - Gallery"
 permalink: /gallery/
 ---
 

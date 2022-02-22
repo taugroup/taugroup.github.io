@@ -1,7 +1,7 @@
 ---
 title: "TAU Group - Research"
 layout: textlay
-excerpt: "TAU Group -- Research"
+excerpt: "TAU Group - Research"
 sitemap: false
 permalink: /research/
 ---

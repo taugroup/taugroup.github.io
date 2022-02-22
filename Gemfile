@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem "jekyll", ">= 3.6.3"
+gem "jekyll"
 gem "jekyll-theme-cayman"
 gem "webrick"
-

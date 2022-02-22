@@ -25,7 +25,7 @@
   This competition challenges data scientists to use machine learning and natural language processing to link databases
   on a large scale, helping millions of Americans make better food and nutrition choices while at the same time saving
   US taxpayers money."
-  pis:
+  pis: Jian Tao
   members: Sree Kiran Prasa
   link:
     url: https://coleridgeinitiative.org/food-for-thought
@@ -57,9 +57,25 @@
   perception in the simulator grew of interest. The primary focus is on emergency vehicle recognition and having the vehicle move aside once
   the siren is detected. We aim to use binary classification with spectograms to determine whether a sound is a siren, and the
   Unreal Engine assets utilized by the simulator must be modified to produce the sounds for the model to detect."
+  pis: Jian Tao
   members: Nina Kang, Alyssa Cassity
   link:
     url: https://sites.google.com/tamu.edu/rellisvirtualmap/home
     display: Virtual RELLIS Site
+  highlight: 0
+  news:
+
+- title: "Combining high-resolution climate simulations with ocean biogeochemistry, fisheries and decision-making models to improve sustainable fisheries"
+  image: ccatch.png
+  description: "Climate change is posing new threats to West Coast communities dependent on fisheries. A new National
+  Science Foundation Convergence Accelerator-funded research project led by Texas A&M University scientists is tackling
+  those challenges using cutting-edge modeling and decision-making technologies. The project is a large multi-institutional
+  endeavor, led by Piers Chapman, research professor in the Department of Oceanography, and brings together scientists
+  from academia, federal agencies and industry."
+  pis: Piers Chapman
+  members: Revanth Reddy, Alyssa Cassity
+  link:
+    url: https://today.tamu.edu/2021/10/26/nsf-funds-texas-am-research-on-west-coast-fisheries-management/
+    display: West Coast Fisheries Management
   highlight: 0
   news:

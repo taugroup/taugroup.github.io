@@ -6,12 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 ## Group highlights
-
-(For a full list of publications of our group go to [Google Scholar](https://scholar.google.com/citations?user=f_gkIjQAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

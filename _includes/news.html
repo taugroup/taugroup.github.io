@@ -4,6 +4,7 @@
 
     {% for article in site.data.news limit:4 %}
     {{ article.date }}
+    <b>[{{ article.type | upcase }}]</b>
     <p>{{ article.headline | markdownify}}</p>
     {% endfor %}
 

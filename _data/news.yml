@@ -1,40 +1,88 @@
+- date: 02/17/2022
+  type: "event"
+  headline: "Dr. Jian Tao helped create <a href='https://tamids.tamu.edu/2022/02/17/ambassador/'>the Data Science Ambassador Scholarship Program</a>
+  that solicits applications from Texas A&M Ph.D. students who wish to serve as representatives for TAMIDS and champions for Data Science literacy in
+  their departments."
+
+- date: 02/15/2022
+  type: "event"
+  headline: "Dr. Jian Tao helped organize <a href='https://tamids.tamu.edu/2022/01/23/2022-dscomp-call/'>the 2022 Student Data Science Competition</a>
+  hosted by Texas A&M Institute of Data Science."
+
+- date: 02/14/2022
+  type: "grant"
+  headline: "Dr. Jian Tao and <a href='https://www.arch.tamu.edu/staff/andre-thomas/' >Andre Thomas</a> received a grant
+  through the <a href='https://tamids.tamu.edu/2020/12/08/course-dev-prog/'>TAMIDS Course Development Program</a> to develop a course on digital twins."
+
+- date: 02/08/2022
+  type: "event"
+  headline: "Dr. Jian Tao hosted the <a href='https://tamids.tamu.edu/2022/01/23/online-workshop-on-digital-twins/'>Online Digital Twin Workshop</a>
+  to help identify and bring together members of the academic community at Texas A&M who are interested in studying and building digital twins."
+
+- date: 02/01/2022
+  type: "grant"
+  headline: "The Texas A&M team co-led by Dr. Jian Tao was awarded nearly $1.2M for the NIST
+  <a href='https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-artificial-intelligence-iot'>
+  Public Safety Innovation Accelerator Program - Artificial Intelligence for IoT Information (PSAIP - AI3)</a>."
+
+- date: 01/21/2022
+  type: "grant"
+  headline: "The TAU Group received a subaward for a project funded by NSF on
+  <a href='https://today.tamu.edu/2021/10/26/nsf-funds-texas-am-research-on-west-coast-fisheries-management/'>West Coast Fisheries Management</a>.
+  The PI of the project is <a href='https://ocean.tamu.edu/people/profiles/faculty/chapmanpiers.html'>Dr. Piers Chapman.</a>"
+
+- date: 01/19/2022
+  type: "grant"
+  headline: "The TAU Group received a subaward to work on one of the
+  <a href='https://www.lyrasis.org/Leadership/Pages/2021-Catalyst-Fund-Projects.aspx'>2021 Catalyst Fund Projects</a>.
+  The PI of the Texas A&M team is <a href='https://scholars.library.tamu.edu/vivo/display/nf489b17d'>Dr. Bruce Herbert</a>."
+
 - date: 01/15/2022
-  headline: "Revanth Reddy, a Master's student from the <a href='https://viz.tamu.edu'>Department of Visualization</a>
+  type: "team"
+  headline: "Revanth Reddy, a Master's student from the <a href='https://cse.tamu.edu'>Department of Computer Science & Engineering</a>
   joined the group."
 
 - date: 01/15/2022
+  type: "team"
   headline: "Two Ph.D. candidates from the <a href='https://ece.tamu.edu/'>Department of Electrical & Computer
   Engineering</a>, Hieu Le and David Santos joined the group."
 
 - date: 01/06/2022
+  type: "event"
   headline: "The TAU Group represented by Sree Kiran Prasad Vadaga and Dr. Jian Tao was selected as one of the 12 teams
   (49 participants total) to compete for <a href='https://coleridgeinitiative.org/food-for-thought/'>the Food for Thought</a>
   international competition organized by USDA and Coleridge Initiative"
 
 - date: 12/01/2021
+  type: "team"
   headline: "Samira Vafay Eslahi (Co-chaired by Dr. Jian Tao with
   <a href='https://engineering.tamu.edu/electrical/profiles/jji.html'>Dr. Jim Ji</a> from ECE), a Ph.D. candidate from
   the <a href='https://ece.tamu.edu/'>Department of Electrical & Computer Engineering</a> joined the group."
 
 - date: 11/01/2021
+  type: "team"
   headline: "Alyssa Cassity, an undergraduate student from the <a href='https://viz.tamu.edu'>Department of Visualization</a>,
   and Nina Kang, an undergraduate student from the <a href='https://cse.tamu.edu'>Department of Computer Science &
   Engineering</a> (Minors in Mathematics & Statistics) joined the group."
 
 - date: 10/01/2021
+  type: "team"
   headline: "Sree Kiran Prasad Vadaga, a graduate student in the <a href='https://tamids.tamu.edu/msds/'>
   Master of Science in Data Science program</a> joined the group."
 
 - date: 09/01/2021
+  type: "grant"
   headline: "In September 2021, the Texas A&M team co-led by Dr. Jian Tao was awarded more than $900,000 for the
   <a href='https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-public-safety-radio-data/creating'>
   Public Safety Innovation Accelerator Program: Public Safety Radio Data Grant</a>."
 
 - date: 09/01/2021
-  headline: "Dr. Jian Tao was appointed as <a href='https://tamids.tamu.edu/2021/11/29/recent-appointments/'>
-  the Assistant Director of the Texas A&M Institute of Data Science</a>.
+  type: "team"
+  headline: "Dr. Jian Tao was appointed as the<a href='https://tamids.tamu.edu/2021/11/29/recent-appointments/'>
+  Assistant Director of the Texas A&M Institute of Data Science</a>.
   He will be primarily responsible for the development of research projects relevant to data science."
 
 - date: 09/01/2021
+  type: "team"
   headline: "Dr. Jian Tao joined the <a href='https://viz.tamu.edu'>Department of Visualization</a> in the College of Architecture at Texas A&M
   University as a tenure-track Assistant Professor. The TAU Group was born."
