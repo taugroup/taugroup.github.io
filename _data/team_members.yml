@@ -13,7 +13,7 @@
   info: Undergraduate Student
   email: aac0428@tamu.edu
   number_educ: 1
-  education1: Bachelor of visualization, Texas A&M University
+  education1: Bachelor of Visualization, Texas A&M University
 
 - name: Samira Vafay Eslahi
   photo: SamiraVafa.jpeg
@@ -23,9 +23,17 @@
   education1: M.S. in Biomedical Engineering, IAU, Iran
   education2: B.E. in Electrical Engineering, IAU, Iran
 
+- name: Nicole Hatch
+  photo: nicolehatch.jpeg
+  info: Master's Student in Visualization
+  email: aac0428@tamu.edu
+  number_educ: 2
+  education1: M.S. in Visualization, Texas A&M University
+  education2: B.S. in Visualization, Texas A&M University
+
 - name: Nina Kang
   photo: NinaKang.jpeg
-  info: Undergraduate Student
+  info: Undergraduate Student in Computer Science
   email: kn395349@tamu.edu
   number_educ: 1
   education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
