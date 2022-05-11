@@ -1,7 +1,14 @@
 - date: 05/10/2022
   type: "team"
   headline: "Revanth Reddy will work at Amazon as an intern in the summer of 2022. Congratulations!"
-  
+
+- date: 04/22/2022
+  type: "grant"
+  headline: "Dr. Jian Tao is among the seven awardees of <a href='https://tamids.tamu.edu/2022/04/08/2022-tamids-career-initiation-fellow-awards/'>the Texas A&M Institute of Data Science
+  Career Initiation Fellow Program</a>. The program was designed to provide early career support to faculty working in any area 
+  involving Data Science and to encourage them to propose engagements with TAMIDS activities, programs, or broader mission, 
+  to be undertaken during the year of the award. Each Fellow received a $10,000 research bursary."
+
 - date: 02/17/2022
   type: "event"
   headline: "The Texas A&M Institute of Data Science kick started <a href='https://tamids.tamu.edu/2022/02/17/ambassador/'>the Data Science Ambassador Scholarship Program</a>
