@@ -40,12 +40,12 @@
   education1: M.S. in Visualization, Texas A&M University
   education2: B.S. in Visualization, Texas A&M University
 
-- name: Nina Kang
-  photo: NinaKang.jpeg
-  info: Undergraduate Student in Computer Science
-  email: kn395349@tamu.edu
-  number_educ: 1
-  education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
+# - name: Nina Kang
+#   photo: NinaKang.jpeg
+#   info: Undergraduate Student in Computer Science
+#   email: kn395349@tamu.edu
+#   number_educ: 1
+#   education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
 
 - name: Hieu Le
   photo: hieu_le.jpeg
