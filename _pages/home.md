@@ -17,6 +17,7 @@ tools to carry out simulations, data analytics, and visualization on both parall
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
  </ol>
 
     <!-- Items -->
@@ -33,6 +34,9 @@ tools to carry out simulations, data analytics, and visualization on both parall
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LYRASIS_RDASH.png" alt="Slide 4" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NISTAI3.png" alt="Slide 5" />
+        </div>        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
