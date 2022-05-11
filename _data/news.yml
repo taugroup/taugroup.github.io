@@ -4,7 +4,15 @@
 
 - date: 05/06/2022
   type: "team"
-  headline: "Nina Kang will graudate from TAMU and join Goldman Sachs in May. Congratulations!"
+  headline: "Sree Kiran Prasad got an internship at NVIDIA in the summer of 2022. Congratulations!"
+
+- date: 05/06/2022
+  type: "team"
+  headline: "Sree Kiran Prasad got an internship at NVIDIA in the summer of 2022. Congratulations!"
+
+- date: 04/28/2022
+  type: "team"
+  headline: "Samira Vafa successfully defended her thesis on Convolutional Neural Network Optimization and Parallel Compressive Sensing Algorithms for Accelerated MRI Reconstruction. Congratulations!"
 
 - date: 04/22/2022
   type: "grant"
