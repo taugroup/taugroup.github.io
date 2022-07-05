@@ -23,14 +23,14 @@
   education1: M.S. in Biomedical Engineering, IAU, Iran
   education2: B.E. in Electrical Engineering, IAU, Iran
 
-- name: Samuel Falade
-  photo: Samuel_Falade.jpg
-  info:  Master's Student in Visualization
-  email: samuelfalade@tamu.edu
-  number_educ: 3
-  education1: M.S. in Visualization, Texas A&M University
-  education2: M.S. in Geophysics, University of Lagos
-  education3: B.S. in Petroleum Engineering, University of Lagos
+# - name: Samuel Falade
+#   photo: Samuel_Falade.jpg
+#   info:  Master's Student in Visualization
+#   email: samuelfalade@tamu.edu
+#   number_educ: 3
+#   education1: M.S. in Visualization, Texas A&M University
+#   education2: M.S. in Geophysics, University of Lagos
+#   education3: B.S. in Petroleum Engineering, University of Lagos
   
 - name: Nicole Hatch
   photo: nicolehatch.png
