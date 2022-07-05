@@ -5,3 +5,12 @@
   number_educ: 2
   education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
   education2: Goldman Sachs (Dallas)
+  
+- name: Samuel Falade
+  photo: Samuel_Falade.jpg
+  info:  Master's Student in Visualization
+  email: samuelfalade@tamu.edu
+  number_educ: 3
+  education1: M.S. in Visualization, Texas A&M University
+  education2: M.S. in Geophysics, University of Lagos
+  education3: B.S. in Petroleum Engineering, University of Lagos
