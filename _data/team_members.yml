@@ -15,13 +15,13 @@
   number_educ: 1
   education1: Bachelor of Visualization, Texas A&M University
 
-# - name: Samira Vafay Eslahi
-#   photo: SamiraVafa.jpeg
-#   info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
-#   email: samira.vafay@tamu.edu
-#   number_educ: 2
-#   education1: M.S. in Biomedical Engineering, IAU, Iran
-#   education2: B.E. in Electrical Engineering, IAU, Iran
+- name: Samira Vafay Eslahi
+  photo: SamiraVafa.jpeg
+  info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
+  email: samira.vafay@tamu.edu
+  number_educ: 2
+  education1: M.S. in Biomedical Engineering, IAU, Iran
+  education2: B.E. in Electrical Engineering, IAU, Iran
 
 # - name: Samuel Falade
 #   photo: Samuel_Falade.jpg
