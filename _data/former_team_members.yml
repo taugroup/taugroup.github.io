@@ -1,11 +1,12 @@
-- name: Nina Kang
-  photo: NinaKang.jpeg
-  info: Undergraduate Student in Computer Science
-  email: kn395349@tamu.edu
-  number_educ: 2
-  education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
-  education2: Goldman Sachs (Dallas)
-  
+- name: Samira Vafay Eslahi
+  photo: SamiraVafa.jpeg
+  info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
+  email: samira.vafay@tamu.edu
+  number_educ: 3
+  education1: M.S. in Biomedical Engineering, IAU, Iran
+  education2: B.E. in Electrical Engineering, IAU, Iran
+  education3: Ph. D. in Electrical & Computer Engineering, Texas A&M University
+    
 - name: Samuel Falade
   photo: Samuel_Falade.jpg
   info:  Master's Student in Visualization
@@ -14,3 +15,11 @@
   education1: M.S. in Visualization, Texas A&M University
   education2: M.S. in Geophysics, University of Lagos
   education3: B.S. in Petroleum Engineering, University of Lagos
+
+- name: Nina Kang
+  photo: NinaKang.jpeg
+  info: Undergraduate Student in Computer Science
+  email: kn395349@tamu.edu
+  number_educ: 2
+  education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
+  education2: Goldman Sachs (Dallas)
