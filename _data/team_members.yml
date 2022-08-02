@@ -1,12 +1,13 @@
 - name: Jian Tao (Group Leader)
   photo: JianTao.png
-  info: Assistant Professor in Visualization, Assistant Director at the Texas A&M Institute of Data cience, Affiliated Faculty at Department of Electrical & Computer Engineering and Department of Nuclear Engineering
+  info: Assistant Professor in Visualization, Assistant Director at the Texas A&M Institute of Data cience, Affiliated Faculty at Department of Electrical & Computer Engineering, Department of Nuclear Engineering, and Department of Multidisciplinary Engineering
   email: jtao@tamu.edu
-  number_educ: 4
-  education1: Ph.D. in Physics from Washington University in St. Louis in 2008
-  education2: NVIDIA DLI University Ambassador
-  education3: XSEDE Campus Champion
-  education4: Contributor to the SPEC CPU 2017 benchmark suite
+  number_educ: 5
+  education1: Ph.D. in Physics, Washington University in St. Louis in 2008
+  education2: B.S. in Space Physics, University of Science & Technology of China in 2000
+  education3: NVIDIA DLI University Ambassador
+  education4: XSEDE Campus Champion
+  education5: Contributor to the SPEC CPU 2017 benchmark suite
 
 - name: Alyssa Cassity
   photo: AlyssaCassity.jpeg
