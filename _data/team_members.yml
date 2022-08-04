@@ -41,6 +41,14 @@
   education1: M.S. in Visualization, Texas A&M University
   education2: B.S. in Visualization, Texas A&M University
 
+- name: Sophie Juang
+  photo: SJpic.jpg
+  info: Master’s Student in Visualization
+  email: sjuang@tamu.edu
+  number_educ: 1
+  education1: M.S. in Visualization, Texas A&M University
+  education2: B.S. in Computer Science, Fu Jen Catholic University
+
 # - name: Nina Kang
 #   photo: NinaKang.jpeg
 #   info: Undergraduate Student in Computer Science
