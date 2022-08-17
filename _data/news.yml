@@ -2,6 +2,10 @@
   type: "team"
   headline: "Samira Vafa will join the Gordon Center for Medical Imaging at Harvard Medical School as a postdoc researcher in September 2022. Congratulations!"
 
+- date: 08/05/2022
+  type: "event"
+  headline: "Texas A&M and US Ignite announced <a href="https://tamids.tamu.edu/2022/08/03/ai-for-iot-information-ai3-competition/">the Smart Communities, Smart Responders – AI for IoT Information (AI3) Prize Competition</a>."
+
 - date: 07/15/2022
   type: "event"
   headline: "Samira Vafay gave a <a href='https://tamids.tamu.edu/2022/07/17/tamids-tech-talk-samira-vafay-eslahi-neural-architecture-search-for-magnetic-resonance-image-reconstructions/'>TAMIDS Tech Talk</a> on Neural Architecture Search for Magnetic Resonance Image Reconstructions."
