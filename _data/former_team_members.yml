@@ -1,12 +1,12 @@
 - name: Samira Vafay Eslahi
   photo: SamiraVafa.jpeg
-  info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
+  info: The Gordon Center for Medical Imaging at Havard Medical School
+#   info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
   email: samira.vafay@tamu.edu
-  number_educ: 4
+  number_educ: 3
   education1: M.S. in Biomedical Engineering, IAU, Iran
   education2: B.E. in Electrical Engineering, IAU, Iran
   education3: Ph. D. in Electrical & Computer Engineering, Texas A&M University
-  education4: The Gordon Center for Medical Imaging at Havard Medical School
     
 - name: Samuel Falade
   photo: Samuel_Falade.jpg
@@ -19,8 +19,8 @@
 
 - name: Nina Kang
   photo: NinaKang.jpeg
-  info: Undergraduate Student in Computer Science
+  info: Goldman Sachs (Dallas)
+#   info: Undergraduate Student in Computer Science
   email: kn395349@tamu.edu
-  number_educ: 2
+  number_educ: 1
   education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
-  education2: Goldman Sachs (Dallas)
