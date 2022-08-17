@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group in the [Department of Visualization](https://viz.tamu.edu) 
-at the [Texas A&M University](https://tamu.edu/). Our group develops and utilizes machine learning algorithms and 
-tools to carry out simulations, data analytics, and visualization on both parallel and distributed computing systems. 
+We are a dynamic, diverse, and interdiscplinary research group from the Visual Computing and Creative Media Section in [School of Performance, Visualization and Fine Arts](https://pvfa.tamu.edu) at the [Texas A&M University](https://tamu.edu/). Our group develops and utilizes numerical and machine learning algorithms to carry out simulations, data analytics, and visualization for real world applications. In other words, we build digital twins of the reality and make them better.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
