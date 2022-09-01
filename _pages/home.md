@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic, diverse, and interdiscplinary research group from the Visual Computing and Creative Media Section in [School of Performance, Visualization and Fine Arts](https://pvfa.tamu.edu) at the [Texas A&M University](https://tamu.edu/). Our group develops and utilizes numerical and machine learning algorithms to carry out simulations, data analytics, and visualization for real world applications. In other words, we build digital twins of the reality and make them better.
+We are a dynamic, diverse, and interdiscplinary research group from the Visual Computing and Creative Media Section in the [School of Performance, Visualization and Fine Arts](https://pvfa.tamu.edu) at the [Texas A&M University](https://tamu.edu/). Our group develops and utilizes numerical and machine learning algorithms to carry out data analytics, simulations, and visualization for real world applications.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
