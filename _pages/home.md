@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic, diverse, and interdiscplinary research group from the Visual Computing and Computational Media Section in the [School of Performance, Visualization and Fine Arts](https://pvfa.tamu.edu) at the [Texas A&M University](https://tamu.edu/). Our group develops numerical and machine learning algorithms and tools to enable and acceleratre digital transformation (DX) for a sustainable society.
+We are a dynamic, diverse, and interdiscplinary research group from the Visual Computing and Computational Media Section in the [School of Performance, Visualization and Fine Arts](https://pvfa.tamu.edu) at the [Texas A&M University](https://tamu.edu/). Our group develops numerical and machine learning algorithms and tools to enable and accelerate digital transformation (DX) for a sustainable society.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
