@@ -1,3 +1,35 @@
+- date: 11/08/2022
+  type: "event"
+  headline: "The 2022 Advances in Public Safety Technology Workshop will take place at Johns Hopkins University Applied Physics Lab. Dr. Tao participated in the discussion on how technology will play a critical role in developing more effective public safety solutions."
+
+- date: 11/07/2022
+  type: "event"
+  headline: "2022 5th IEEE 5G Workshop on First Responder and Tactical Networks took place at Johns Hopkins University Applied Physics Lab. Dr. Tao gave an invited lightning talk on Roadmap for a Digital-Twin Enabled Testbed for Public Safety Communication Technologies."
+
+- date: 10/28/2022
+  type: "event"
+  headline: "The AI3 Prize Competition sponsors and organizers hosted an informational webinar in late October 2022. The TAU group is in charge of the technical component of the competition."
+
+- date: 10/21/2022
+  type: "grant"
+  headline: "The Digtial Twin Lab led by Dr. Tao is one of the two new Thematic Labs announced by the Texas A&M Institute of Data Science."
+
+- date: 10/21/2022
+  type: "event"
+  headline: "Alyssa Cassity, Hieu Le, and Sree Kiran Prasad Vadaga presented 3 postered at the Conference on Adances in Data Science: Theory, Method and Computtation."
+
+- date: 10/10/2022
+  type: "event"
+  headline: "The Fall kickoff meeting of the SAE AutoDrive Challenge II took place at the University of Michigan. Dr. Tao is a faculty advisor of the Texas A&M AutoDrive Challenge II Team and attended the meeting."
+
+- date: 09/09/2022
+  type: "team"
+  headline: "Dr. Tao serves as the Testbed Committee Co-Chair of the IEEE Public Safety Technology Initiative."
+
+- date: 08/17/2022
+  type: "team"
+  headline: "Samira Vafa will join the Gordon Center for Medical Imaging at Harvard Medical School as a postdoc researcher in October 2022. Congratulations!"
+
 - date: 08/17/2022
   type: "team"
   headline: "Samira Vafa will join the Gordon Center for Medical Imaging at Harvard Medical School as a postdoc researcher in October 2022. Congratulations!"
