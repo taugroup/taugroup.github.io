@@ -33,6 +33,13 @@
 #   education2: M.S. in Geophysics, University of Lagos
 #   education3: B.S. in Petroleum Engineering, University of Lagos
 
+- name: Shruti Gurav
+  photo: ShrutiGurav.jpg
+  info: Master's Student in Visualization
+  email: roy.shrimantee@tamu.edu
+  number_educ: 1
+  education1: M.S. in Visualization, Texas A&M University
+
 - name: Nicole Hatch
   photo: nicolehatch.png
   info: Master's Student in Visualization
@@ -87,7 +94,14 @@
   number_educ: 2
   education1: M.S. in Data Science, Texas A&M University
   education2: Integrated M.Tech. & B.Tech., Indian Institute of Technology Madras
-
+  
+- name: Shrimantee Roy
+  photo: ShrimanteeRoy.jpg
+  info: Master's Student in Visualization
+  email: roy.shrimantee@tamu.edu
+  number_educ: 1
+  education1: M.S. in Visualization, Texas A&M University
+  
 - name: David Santos
   photo: DavidSantos.jpeg
   info: Ph.D. Student in Electrical Engineering
