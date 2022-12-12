@@ -1,0 +1,27 @@
+- title: "Lighthouse : Red Flag AI Tool"
+  image: Lighthouse.png
+  description: "The aim of this project is to develop algorithms and their embodiment in prototype software to implement the categorization.
+
+The software will accept as input the project information and produce as output a profile summarizing the documents relevance to each topic e.g. through a numerical score in each topic, and analysis of the frequencies of keywords in each topic, together with a summary of the set of proposals."
+  pis: Jian Tao
+  collaborators: Texas A&M Division of Research, Texas A&M Institute of Data Science, Department of Visualization
+  members: Revanth Reddy, Sreekiran Prasad Vadaga, Harikrishnan Raghukumar
+  tags: Natural Language Processing, Research, Compliance, Biosafety
+  link:
+    url: /compliance/
+    display: Lighthouse Webpage
+  highlight: 1
+  news:
+
+- title: "RDash : An Organizational Intelligence Platform for Institutional Research [WIP] "
+  image: Rdash.png
+  description: A recommendation system that captures the opportunities for pursuing external research funds through grants, contracts, and subcontracts based on the scholar’s research profile. RDash-Grants entails analyzing a massive set of solicitations and funding opportunities and selecting the most appropriate one or group of relevant grants by considering the scholar's preferences and research profile.
+  pis: Jian Tao
+  collaborators: Texas A&M Division of Research, Texas A&M University Libraries, Texas A&M Institute of Data Science 
+  members: Revanth Reddy, Sreekiran Prasad Vadaga, Harikrishnan Raghukumar
+  tags: Natural Language Processing, Recommender Systems 
+  link:
+    url: /rdash/
+    display: RDash Webpage
+  highlight: 1
+  news:

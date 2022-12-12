@@ -1,0 +1,35 @@
+- name: Jian Tao (Group Leader)
+  photo: JianTao.png
+  info: Assistant Professor in Visualization, Assistant Director at the Texas A&M Institute of Data cience, Affiliated Faculty at Department of Electrical & Computer Engineering, Department of Nuclear Engineering, and Department of Multidisciplinary Engineering
+  email: jtao@tamu.edu
+  number_educ: 5
+  education1: Ph.D. in Physics, Washington University in St. Louis in 2008
+  education2: B.S. in Space Physics, University of Science & Technology of China in 2000
+  education3: NVIDIA DLI University Ambassador
+  education4: XSEDE Campus Champion
+  education5: Contributor to the SPEC CPU 2017 benchmark suite
+
+- name: Sree Kiran Prasad 
+  photo: SreeKiranPrasad.jpeg
+  info: Master's Student, NLP & Data Science Researcher
+  email: sreekiranv@tamu.edu
+  number_educ: 2
+  education1: Master of Data Science, Texas A&M University
+  education2: Bachelor of  Technology, National Institute of Technology Tiruchirappalli
+
+- name: Revanth Reddy
+  photo: Revanth.jpeg
+  info: Master's Student, ML & FullStack Developer
+  email: revanth@tamu.edu
+  number_educ: 2
+  education1: Master of Computer Science, Texas A&M University
+  education2: Bachelor of Technology, National Institute of Technology Durgapur
+
+- name: Harikrishnan Raghukumar
+  photo: Hari_Raghukumar.jpg
+  info: Master's Student, Data Science Researcher
+  email: harikrishnan.r@tamu.edu
+  number_educ: 2
+  education1: M.S. in Data Science, Texas A&M University
+  education2: Integrated M.Tech. & B.Tech., Indian Institute of Technology Madras
+  
