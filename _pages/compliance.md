@@ -8,10 +8,11 @@ permalink: /compliance/
 
 <a href="{{ site.url }}{{ site.baseurl }}/images/projects/Lighthouse.png">
       <img src="{{ site.url }}{{ site.baseurl }}/images/projects/Lighthouse.png" 
-      class="img-responsive" width="25%" style="float: left" /></a>
+      class="img-responsive" width="20%" style="float: left" /></a>
 
 <center>
-<span style="color: brown; font-size:400%; font-weight: bold;">Lighthouse Project : Red Flag AI Tool</span>
+<br /><br />
+<span style="color: brown; font-size:300%; font-weight: bold;">Lighthouse Project : Red Flag AI Tool</span>
 
 <br />
 <br />
@@ -36,7 +37,7 @@ permalink: /compliance/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -200,7 +201,10 @@ The software will accept as input the project information and produce as output 
 
 <span style="color: brown; font-size:175%;  font-weight: bold;">Important Links</span>
 
-#### [Lighthouse Website](http://datahub.geos.tamu.edu:8989/) (TAMU CAS protected)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Documentation of the project](https://notworkinglink-addyourlinkhere.org) (WIP- TauGroup members only)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github repository](https://github.com/taugroup/PDFTHT) (TauGroup members only)
+
+[Lighthouse Website](http://datahub.geos.tamu.edu:8989/) (TAMU CAS protected) <br />
+[Documentation of the project ](https://notworkinglink-addyourlinkhere.org) (WIP- TauGroup members only)<br />
+[Github repository](https://github.com/taugroup/PDFTHT) (TauGroup members only)
 
 <br />
 
