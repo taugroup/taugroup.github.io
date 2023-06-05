@@ -86,10 +86,10 @@ Below is the poster we presented in 'Advances In Data Science Theory Methods and
 <span style="color: brown; font-size:175%;  font-weight: bold;"> Important Links </span>
 
 Documentation of the project : 
-[Documentation (Taugroup members only)](https://notworkinglink-addyourlinkhere.org) 
+[Documentation (TAU Group members only)](https://documentation-rdash.readthedocs.io/en/latest/) 
 
 Link to github repository : 
-[RDash Project (Taugroup members only)](https://github.com/taugroup/RDASH) 
+[RDash Project (TAU Group members only)](https://github.com/taugroup/RDASH) 
 
 <br />
 <br />
