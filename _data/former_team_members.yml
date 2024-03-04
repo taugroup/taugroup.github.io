@@ -1,3 +1,56 @@
+- name: Jocelyn Zarate Losoya (Summer Student)
+  photo: Jocelyn.jpeg
+  # info: B.S. Student in Digital Animation and Visual Effects Engineering
+  email: Jocelynixzl@gmail.com
+  number_educ: 1
+  education1: B.S. in Digital Animation and Visual Effects Engineering, Instituto Tecnológico Superior Progreso
+
+- name: Shrimantee Roy
+  photo: ShrimanteeRoy.jpg
+  # info: Master's Student in Visualization
+  email: roy.shrimantee@tamu.edu
+  number_educ: 1
+  education1: M.S. in Visualization, Texas A&M University
+
+- name: Sree Kiran Prasad 
+  photo: SreeKiranPrasad.jpeg
+  # info: Master's Student, NLP & Data Science Researcher
+  email: sreekiranv@tamu.edu
+  number_educ: 2
+  education1: Master of Data Science, Texas A&M University
+  education2: Bachelor of  Technology, National Institute of Technology Tiruchirappalli
+
+- name: Revanth Reddy
+  photo: Revanth.jpeg
+  # info: Master's Student, ML & FullStack Developer
+  email: revanth@tamu.edu
+  number_educ: 2
+  education1: Master of Computer Science, Texas A&M University
+  education2: Bachelor of Technology, National Institute of Technology Durgapur
+
+- name: Shruti Gurav
+  photo: ShrutiGurav.jpg
+  # info: Master's Student in Visualization
+  email: shruti_gurav@tamu.edu
+  number_educ: 1
+  education1: M.S. in Visualization, Texas A&M University
+
+- name: Nicole Hatch
+  photo: nicolehatch.png
+  # info: Master's Student in Visualization
+  email: nhatch@tamu.edu
+  number_educ: 2
+  education1: M.S. in Visualization, Texas A&M University
+  education2: B.S. in Visualization, Texas A&M University
+
+- name: Sophie Juang
+  photo: SJpic.jpg
+  # info: Master’s Student in Visualization
+  email: sjuang@tamu.edu
+  number_educ: 1
+  education1: M.S. in Visualization, Texas A&M University
+  education2: B.S. in Computer Science, Fu Jen Catholic University
+
 - name: Samira Vafay Eslahi
   photo: SamiraVafa.jpeg
   info: The Gordon Center for Medical Imaging at Havard Medical School
