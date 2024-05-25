@@ -88,13 +88,13 @@
 #   education1: Master of Computer Science, Texas A&M University
 #   education2: Bachelor of Technology, National Institute of Technology Durgapur
 
-- name: Harikrishnan Raghukumar
-  photo: Hari_Raghukumar.jpg
-  info: Master's Student, Data Science Researcher
-  email: harikrishnan.r@tamu.edu
-  number_educ: 2
-  education1: M.S. in Data Science, Texas A&M University
-  education2: Integrated M.Tech. & B.Tech., Indian Institute of Technology Madras
+# - name: Harikrishnan Raghukumar
+#   photo: Hari_Raghukumar.jpg
+#   info: Master's Student, Data Science Researcher
+#   email: harikrishnan.r@tamu.edu
+#   number_educ: 2
+#   education1: M.S. in Data Science, Texas A&M University
+#   education2: Integrated M.Tech. & B.Tech., Indian Institute of Technology Madras
   
 # - name: Shrimantee Roy
 #   photo: ShrimanteeRoy.jpg
