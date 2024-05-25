@@ -1,14 +1,12 @@
 - name: Jian Tao (Group Leader)
   photo: JianTao.png
-  info: Assistant Professor in Visualization, Assistant Director at the Texas A&M Institute of Data cience, Affiliated Faculty at Department of Electrical & Computer Engineering, Department of Nuclear Engineering, and Department of Multidisciplinary Engineering
+  info: Assistant Professor in Visualization, Assistant Director at the Texas A&M Institute of Data Science, Affiliated Faculty at Department of Electrical & Computer Engineering, Department of Nuclear Engineering, and Department of Multidisciplinary Engineering,   education3: NVIDIA DLI University Ambassador
+  Contributor to the SPEC CPU 2017 benchmark suite, Testbed Committee Co-Chair, IEEE Public Safety Technology Initiative, Associate Editor, Computing & AI Connect, Scifiniti
   email: jtao@tamu.edu
-  number_educ: 6
+  number_educ: 2
   education1: Ph.D. in Physics, Washington University in St. Louis in 2008
   education2: B.S. in Space Physics, University of Science & Technology of China in 2000
-  education3: NVIDIA DLI University Ambassador
-  education4: Contributor to the SPEC CPU 2017 benchmark suite
-  education5: Testbed Committee Co-Chair, IEEE Public Safety Technology Initiative
-  education6: Associate Editor, Computing & AI Connect, Scifiniti
+
 
 - name: Britain Thomas
   photo: BritainThomas.jpeg
