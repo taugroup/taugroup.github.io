@@ -6,12 +6,13 @@
   education1: Ph.D. in Physics, Washington University in St. Louis in 2008
   education2: B.S. in Space Physics, University of Science & Technology of China in 2000
   education3: NVIDIA DLI University Ambassador
-  education4: XSEDE Campus Champion
-  education5: Contributor to the SPEC CPU 2017 benchmark suite
+  education4: Contributor to the SPEC CPU 2017 benchmark suite
+  education5: Testbed Committee Co-Chair, IEEE Public Safety Technology Initiative
+  education6: Associate Editor, Computing & AI Connect, Scifiniti
 
 - name: Alyssa Cassity
   photo: AlyssaCassity.jpeg
-  info: Undergraduate Student
+  info: Master Student
   email: aac0428@tamu.edu
   number_educ: 1
   education1: Bachelor of Visualization, Texas A&M University
