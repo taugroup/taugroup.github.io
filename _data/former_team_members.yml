@@ -30,7 +30,7 @@
 
 - name: Sree Kiran Prasad 
   photo: SreeKiranPrasad.jpeg
-  # info: Master's Student, NLP & Data Science Researcher
+  info: AI/ML Engineer, PayPal
   email: sreekiranv@tamu.edu
   number_educ: 2
   education1: Master of Data Science, Texas A&M University
@@ -38,7 +38,7 @@
 
 - name: Revanth Reddy
   photo: Revanth.jpeg
-  # info: Master's Student, ML & FullStack Developer
+  info: SDE, Amazon
   email: revanth@tamu.edu
   number_educ: 2
   education1: Master of Computer Science, Texas A&M University
@@ -53,7 +53,7 @@
 
 - name: Nicole Hatch
   photo: nicolehatch.png
-  # info: Master's Student in Visualization
+  info: Associate Technical Artist, EA Sports
   email: nhatch@tamu.edu
   number_educ: 2
   education1: M.S. in Visualization, Texas A&M University
