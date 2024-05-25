@@ -1,3 +1,19 @@
+- name: Harikrishnan Raghukumar
+  photo: Hari_Raghukumar.jpg
+  info: Master, Data Science Researcher
+  email: harikrishnan.r@tamu.edu
+  number_educ: 2
+  education1: M.S. in Data Science, Texas A&M University
+  education2: Integrated M.Tech. & B.Tech., Indian Institute of Technology Madras
+
+- name: Pravija Danda
+  photo: PravijaDanda.jpeg
+  info: Master, Data Science Researcher
+  email: pravija123@tamu.edu
+  number_educ: 2
+  education1: M.S. in Computer Science, Texas A&M University
+  education2: BTech, Information Technology, National Institute of Technology Raipur
+
 - name: Jocelyn Zarate Losoya (Summer Student)
   photo: Jocelyn.jpeg
   # info: B.S. Student in Digital Animation and Visual Effects Engineering
