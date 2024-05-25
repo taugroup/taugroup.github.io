@@ -10,9 +10,16 @@
   education5: Testbed Committee Co-Chair, IEEE Public Safety Technology Initiative
   education6: Associate Editor, Computing & AI Connect, Scifiniti
 
+- name: Britain Thomas
+  photo: BritainThomas.jpeg
+  info: Master’s Student, Visualization
+  email: britainthomas@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Visualization, Texas A&M University
+
 - name: Alyssa Cassity
   photo: AlyssaCassity.jpeg
-  info: Master Student
+  info: Master’s Student, Visualization
   email: aac0428@tamu.edu
   number_educ: 1
   education1: Bachelor of Visualization, Texas A&M University
@@ -24,7 +31,14 @@
   number_educ: 2
   education1: M.S. in Petroleum  Engineering, New Mexico Institute of Mining and Technology University of Technology, Viet Nam
   education2: B.E. in Petroleum  Engineering, Vietnam National University Ho Chi Minh City, University of Technology, Viet Nam
-    
+
+- name: Sina Alidoust Salimi
+  photo: SinaSalimi.jpg
+  info: Master’s Student, Visualization
+  email: sina.salimi@tamu.edu
+  number_educ: 1
+  education1: B.S. in Civil Engineering, IAU, Iran
+
 - name: David Santos
   photo: DavidSantos.jpeg
   info: Ph.D. Student in Electrical Engineering
