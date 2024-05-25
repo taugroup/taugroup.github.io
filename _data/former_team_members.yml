@@ -63,14 +63,13 @@
   photo: SJpic.jpg
   # info: Master’s Student in Visualization
   email: sjuang@tamu.edu
-  number_educ: 1
+  number_educ: 2
   education1: M.S. in Visualization, Texas A&M University
   education2: B.S. in Computer Science, Fu Jen Catholic University
 
 - name: Samira Vafay Eslahi
   photo: SamiraVafa.jpeg
-  info: The Gordon Center for Medical Imaging at Havard Medical School
-#   info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
+  info: Postdoc, Gordon Center for Medical Imaging at Havard Medical School
   email: samira.vafay@tamu.edu
   number_educ: 3
   education1: M.S. in Biomedical Engineering, IAU, Iran
@@ -89,7 +88,6 @@
 - name: Nina Kang
   photo: NinaKang.jpeg
   info: Goldman Sachs (Dallas)
-#   info: Undergraduate Student in Computer Science
   email: kn395349@tamu.edu
   number_educ: 1
   education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
