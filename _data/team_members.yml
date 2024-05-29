@@ -6,26 +6,19 @@
   education1: Ph.D. in Physics, Washington University in St. Louis in 2008
   education2: B.S. in Space Physics, University of Science & Technology of China in 2000
 
-- name: Vineet Gandham
-  photo: VineetGandham.jpg
-  info: Master’s Student, Computer Science
-  email: vineet.gandham@tamu.edu
-  number_educ: 1
-  education1: Bachelor of Technology, Manipal Institute of Technology, India
-  
-- name: Britain Thomas
-  photo: BritainThomas.jpeg
-  info: Master’s Student, Visualization
-  email: britainthomas@tamu.edu
-  number_educ: 1
-  education1: Bachelor of Visualization, Texas A&M University
-
 - name: Alyssa Cassity
   photo: AlyssaCassity.jpeg
   info: Master’s Student, Visualization
   email: aac0428@tamu.edu
   number_educ: 1
   education1: Bachelor of Visualization, Texas A&M University
+
+- name: Vineet Gandham
+  photo: VineetGandham.jpg
+  info: Master’s Student, Computer Science
+  email: vineet.gandham@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Technology, Manipal Institute of Technology, India
 
 - name: Hieu Le
   photo: hieu_le.jpeg
@@ -34,6 +27,13 @@
   number_educ: 2
   education1: M.S. in Petroleum  Engineering, New Mexico Institute of Mining and Technology University of Technology, Viet Nam
   education2: B.E. in Petroleum  Engineering, Vietnam National University Ho Chi Minh City, University of Technology, Viet Nam
+
+- name: Erik Priest
+  photo: ErikPriest.jpeg
+  info: Master’s Student, Computer Science
+  email: epriest@tamu.edu
+  number_educ: 1
+  education: B.S in Computer Science, Texas A&M University
 
 - name: Sina Alidoust Salimi
   photo: SinaSalimi.jpg
@@ -49,6 +49,15 @@
   number_educ: 2
   education1: B.S. in Electrical Engineering, Pontifical Xavierian University
   education2: M.S in Electrical Engineering, Pontifical Xavierian University
+
+  
+- name: Britain Thomas
+  photo: BritainThomas.jpeg
+  info: Master’s Student, Visualization
+  email: britainthomas@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Visualization, Texas A&M University
+
 
 # - name: Samira Vafay Eslahi
 #   photo: SamiraVafa.jpeg
