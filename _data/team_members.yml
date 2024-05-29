@@ -15,7 +15,7 @@
 
 - name: Vineet Gandham
   photo: VineetGandham.jpg
-  info: Master’s Student, Computer Science
+  info: Master’s Student in Computer Science
   email: vineet.gandham@tamu.edu
   number_educ: 1
   education1: Bachelor of Technology, Manipal Institute of Technology, India
@@ -40,7 +40,7 @@
   info: Master’s Student in Computer Science
   email: epriest@tamu.edu
   number_educ: 1
-  education: B.S in Computer Science, Texas A&M University
+  education1: B.S in Computer Science, Texas A&M University
 
 - name: Sina Alidoust Salimi
   photo: SinaSalimi.jpg
