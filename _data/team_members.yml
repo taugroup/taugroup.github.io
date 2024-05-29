@@ -6,7 +6,13 @@
   education1: Ph.D. in Physics, Washington University in St. Louis in 2008
   education2: B.S. in Space Physics, University of Science & Technology of China in 2000
 
-
+- name: Vineet Gandham
+  photo: VineetGandham.jpg
+  info: Master’s Student, Computer Science
+  email: vineet.gandham@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Technology, Manipal Institute of Technology, India
+  
 - name: Britain Thomas
   photo: BritainThomas.jpeg
   info: Master’s Student, Visualization
