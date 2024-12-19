@@ -28,7 +28,13 @@
   education1: M.S. in Petroleum  Engineering, New Mexico Institute of Mining and Technology University of Technology, Viet Nam
   education2: B.E. in Petroleum  Engineering, Vietnam National University Ho Chi Minh City, University of Technology, Viet Nam
 
-  
+- name: Dheeraj Mudireddy
+- photo: Dheeraj_TAU.jpeg
+- info: Master's Student, Data Science
+- email: dheeraj.reddy@tamu.edu
+- number_educ: 1
+- education1: B.E. in Information Science, NMIT, Visveswaraya Technological University, India
+
 - name: Erik Priest
   photo: ErikPriest.jpeg
   info: Master’s Student in Computer Science
@@ -51,15 +57,13 @@
   education1: B.S. in Electrical Engineering, Pontifical Xavierian University
   education2: M.S in Electrical Engineering, Pontifical Xavierian University
 
-  
 - name: Britain Thomas
   photo: BritainThomas.jpeg
   info: Master’s Student, Visualization
   email: britainthomas@tamu.edu
   number_educ: 1
   education1: Bachelor of Visualization, Texas A&M University
-
-
+  
 # - name: Samira Vafay Eslahi
 #   photo: SamiraVafa.jpeg
 #   info: Ph.D. Candidate at ECEN-TAMU, DL Developer in Image Processing and Computer Vision
