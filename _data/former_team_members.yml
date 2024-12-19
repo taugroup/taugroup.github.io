@@ -1,3 +1,10 @@
+- name: Kayla Levy
+  photo: KaylaLevy.JPG
+  info: Undergraduate Student, 
+  email: klevy@tamu.edu
+  number_educ: 1
+  education1: B.S in Data Engineering, minor in computer science and statistics at Texas A&M University 
+
 - name: Harikrishnan Raghukumar
   photo: Hari_Raghukumar.jpg
   info: Master, Data Science Researcher
