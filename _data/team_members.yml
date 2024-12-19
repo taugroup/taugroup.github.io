@@ -28,12 +28,6 @@
   education1: M.S. in Petroleum  Engineering, New Mexico Institute of Mining and Technology University of Technology, Viet Nam
   education2: B.E. in Petroleum  Engineering, Vietnam National University Ho Chi Minh City, University of Technology, Viet Nam
 
-- name: Kayla Levy
-  photo: KaylaLevy.JPG
-  info: Undergraduate Student, 
-  email: vineet.gandham@tamu.edu
-  number_educ: 1
-  education1: B.S in Data Engineering, minor in computer science and statistics at Texas A&M University 
   
 - name: Erik Priest
   photo: ErikPriest.jpeg
@@ -113,7 +107,6 @@
 #   number_educ: 1
 #   education1: B.S. in Computer Science w/ Minors in Mathematics & Statistics, Texas A&M University
 
-
 # - name: Sree Kiran Prasad 
 #   photo: SreeKiranPrasad.jpeg
 #   info: Master's Student, NLP & Data Science Researcher
@@ -151,3 +144,10 @@
 #   email: Jocelynixzl@gmail.com
 #   number_educ: 1
 #   education1: B.S. in Digital Animation and Visual Effects Engineering, Instituto Tecnológico Superior Progreso
+
+# - name: Kayla Levy
+#   photo: KaylaLevy.JPG
+#   info: Undergraduate Student, 
+#   email: klevy@tamu.edu
+#   number_educ: 1
+#   education1: B.S in Data Engineering, minor in computer science and statistics at Texas A&M University 
