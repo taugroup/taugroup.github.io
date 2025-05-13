@@ -1,3 +1,17 @@
+- name: Alyssa Cassity
+  photo: AlyssaCassity.jpeg
+  info: Master’s Student, Visualization
+  email: aac0428@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Visualization, Texas A&M University
+
+- name: Vineet Gandham
+  photo: VineetGandham.jpg
+  info: Master’s Student in Computer Science
+  email: vineet.gandham@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Technology, Manipal Institute of Technology, India
+  
 - name: Kayla Levy
   photo: KaylaLevy.JPG
   info: Undergraduate Student, 
