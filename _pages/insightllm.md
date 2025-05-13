@@ -13,9 +13,7 @@ permalink: /insightllm/
 
 <center>
 <br /><br />
-<span style="color: brown; font-size:300%; font-weight: bold;">INSIGHTLLM</span>
-<br />
-<span style="color: brown; font-size:150%; font-weight: bold;">Intelligent System for Integrating Global Human & Animal Health Technology</span>
+<span style="color: brown; font-size:250%; font-weight: bold;">INSIGHTLLM: Intelligent System for Integrating Global Human & Animal Health Technology</span>
 </center>
 
 <br /><br /><br />
