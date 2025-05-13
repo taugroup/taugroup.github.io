@@ -1,3 +1,16 @@
+- title: "INSIGHTLLM: Intelligent System for Integrating Global Human & Animal Health Technology [WIP]"
+  image: animal_rag_architecture.png
+  description: "The aim of this project is to develop a specialized RAG system that will serve as a bridge between animal science and human nutrition. The system is designed to provide a comprehensive and accurate solutions with citations, to queries related to animal science and human nutrition by referencing a vast array of scientific literature."
+  pis: Luis O. Tedeschi, Jian Tao, Robert Strong, Karun Kaniyamattam
+  collaborators: Texas A&M Institute of Data Science, Department of Agricultural Leadership, Education, and Communications, Department of Animal Science
+  members: Dheeraj Mudireddy
+  tags: Retrieval-Augumented Generation, Large Language Models
+  link:
+    url: /insightllm/
+    display: InsightLLM Webpage
+  highlight: 1
+  news:
+
 - title: "Lighthouse : Red Flag AI Tool"
   image: Lighthouse.png
   description: "The aim of this project is to develop algorithms and their embodiment in prototype software to implement the categorization.
