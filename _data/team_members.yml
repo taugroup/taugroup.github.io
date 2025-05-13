@@ -6,20 +6,6 @@
   education1: Ph.D. in Physics, Washington University in St. Louis in 2008
   education2: B.S. in Space Physics, University of Science & Technology of China in 2000
 
-- name: Alyssa Cassity
-  photo: AlyssaCassity.jpeg
-  info: Master’s Student, Visualization
-  email: aac0428@tamu.edu
-  number_educ: 1
-  education1: Bachelor of Visualization, Texas A&M University
-
-- name: Vineet Gandham
-  photo: VineetGandham.jpg
-  info: Master’s Student in Computer Science
-  email: vineet.gandham@tamu.edu
-  number_educ: 1
-  education1: Bachelor of Technology, Manipal Institute of Technology, India
-
 - name: Hieu Le
   photo: hieu_le.jpeg
   info: Ph.D. student in Electrical Engineering
@@ -33,7 +19,14 @@
   info: Master's Student, Data Science
   email: dheeraj.reddy@tamu.edu
   number_educ: 1
-  education1: B.E. in Information Science, NMIT, Visveswaraya Technological University, India
+  education1: B.E. in Information Science, NMIT, Visveswaraya Technological University, Bangalore, India
+
+- name: Praneet Sai Madhu Surabhi
+  photo: PraneetTAU.jpeg
+  info: Master's Student, Data Science
+  email: psurabhi@tamu.edu
+  number_educ: 1
+  education1: B.E. in Computer Science, Birla Institute of Technology and Science, Hyderabad, India
 
 - name: Erik Priest
   photo: ErikPriest.jpeg
@@ -63,6 +56,20 @@
   email: britainthomas@tamu.edu
   number_educ: 1
   education1: Bachelor of Visualization, Texas A&M University
+
+# - name: Alyssa Cassity
+#   photo: AlyssaCassity.jpeg
+#   info: Master’s Student, Visualization
+#   email: aac0428@tamu.edu
+#   number_educ: 1
+#   education1: Bachelor of Visualization, Texas A&M University
+
+# - name: Vineet Gandham
+#   photo: VineetGandham.jpg
+#   info: Master’s Student in Computer Science
+#   email: vineet.gandham@tamu.edu
+#   number_educ: 1
+#   education1: Bachelor of Technology, Manipal Institute of Technology, India
   
 # - name: Samira Vafay Eslahi
 #   photo: SamiraVafa.jpeg
