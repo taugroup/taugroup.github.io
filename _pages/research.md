@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 Our group develops and utilizes machine learning algorithms and tools to carry out 
 simulations, data analytics, and visualization on both parallel and distributed computing 
-systems.
+systems. We also focus on utilizing Large Language Models and agentic architectures to support Digital Twins.
 
 {% assign number_printed = 0 %}
 {% for res in site.data.research %}
