@@ -6,8 +6,8 @@ sitemap: false
 permalink: /insightllm/
 ---
 
-<a href="{{ site.url }}{{ site.baseurl }}/images/projects/animal_rag_architecture.png">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/animal_rag_architecture.png" 
+<a href="{{ site.url }}{{ site.baseurl }}/images/projects/insightllm_logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/insightllm_logo.png" 
   class="img-responsive" width="20%" style="float: left" />
 </a>
 
@@ -109,7 +109,7 @@ It is designed to empower researchers with fast, contextualized access to a vast
 
 <span style="color: brown; font-size:175%; font-weight: bold;">Important Links</span>
 
-[InsightLLM Webpage](/insightllm/) (internal only for now) <br />
+<!-- [InsightLLM Webpage](/insightllm/) (internal only for now) <br /> -->
 [Source Code Repository](https://github.com/taugroup/AnimalRAG) (WIP - access required) <br />
 
 <br /><br />

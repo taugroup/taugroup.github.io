@@ -1,6 +1,6 @@
 - title: "INSIGHTLLM: Intelligent System for Integrating Global Human & Animal Health Technology [WIP]"
   image: animal_rag_architecture.png
-  description: "The aim of this project is to develop a specialized RAG system that will serve as a bridge between animal science and human nutrition. The system is designed to provide a comprehensive and accurate solutions with citations, to queries related to animal science and human nutrition by referencing a vast array of scientific literature."
+  description: "The aim of this project is to develop a specialized RAG system that will serve as a bridge between animal science and human nutrition. The system is designed to provide a comprehensive and accurate solutions with citations, to queries related to animal science and human nutrition by referencing a vast array of scientific literature. Various techniques like RAG, Dense (vectors) & Sparse (BM25) retrieval, and LLMs from Ollama will be employed to achieve this goal. "
   pis: Luis O. Tedeschi, Jian Tao, Robert Strong, Karun Kaniyamattam
   collaborators: Texas A&M Institute of Data Science, Department of Agricultural Leadership, Education, and Communications, Department of Animal Science
   members: Dheeraj Mudireddy
