@@ -1,3 +1,11 @@
+- name: Dheeraj Mudireddy
+  photo: Dheeraj_TAU.jpeg
+  info: Data Scientist, Amazon
+  email: meetdheerajreddy@gmail.com
+  number_educ: 2
+  education1: Master's in Data Science, Texas A&M University, 2025
+  education2: B.E. in Information Science, NMIT, Visveswaraya Technological University, Bangalore, India
+
 - name: Alyssa Cassity
   photo: AlyssaCassity.jpeg
   info: Master’s Student, Visualization
@@ -7,10 +15,11 @@
 
 - name: Vineet Gandham
   photo: VineetGandham.jpg
-  info: Master’s Student in Computer Science
+  info: SDE, Amazon
   email: vineet.gandham@tamu.edu
-  number_educ: 1
-  education1: Bachelor of Technology, Manipal Institute of Technology, India
+  number_educ: 2
+  education1: Master's in Computer Science, Texas A&M University, 2025
+  education2: Bachelor of Technology, Manipal Institute of Technology, India
   
 - name: Kayla Levy
   photo: KaylaLevy.JPG
