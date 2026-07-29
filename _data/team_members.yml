@@ -29,6 +29,13 @@
   number_educ: 1
   education1: B.S. in Civil Engineering, IAU, Iran
 
+- name: Amir Hossein Khazaei
+  photo: Amirkhazaei.jpg
+  info: Master’s Student, Visualization
+  email: amirkhazaei@tamu.edu
+  number_educ: 1
+  education1: Bachelor of Architecture, West Tehran Azad University, Iran
+
 - name: Praneet Sai Madhu Surabhi
   photo: PraneetTAU.jpeg
   info: Master's Student, Data Science
